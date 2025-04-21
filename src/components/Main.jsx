@@ -59,23 +59,6 @@ export default function Main() {
         
         <div className="uwu">
         <section className="gridproyectos" id="gridproyectos">
-          <div className="gridproyectos-item">
-            <img src={veterinaria} alt="" />
-            <h3>Veterinaria</h3>
-            <p>Administrador de citas, cuenta con LocalStorage </p>
-            <h3>Tecnologías Usadas</h3>
-            <div className="gridproyectos-item-imgs">
-              <img src={react} alt=""/>
-              <img src={js}alt=""/>
-              <img src={html} alt=""/>
-              <img src={css3} alt=""/>
-
-            </div>
-            <div className="gridproyectos-item-enlace">
-              <a href="https://yisus01.github.io/AgendarCitas/">Ver Proyecto</a>
-
-            </div>
-          </div>
 
           <div className="gridproyectos-item">
             <img src={barber} alt="" />

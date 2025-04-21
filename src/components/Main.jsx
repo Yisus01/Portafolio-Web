@@ -1,7 +1,6 @@
 import foto from "../assets/img/foto.png.png";
 import barber from "../assets/img/labarber.png";
 import blog from "../assets/img/blog.png";
-import veterinaria from "../assets/img/veterinaria.png";
 import react from "../assets/img/react.png";
 import js from "../assets/img/js.png";
 import html from "../assets/img/html-5.png";
